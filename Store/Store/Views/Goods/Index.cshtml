@@ -1,0 +1,68 @@
+﻿@model PagedList.IPagedList<Store.Models.Good>
+
+@using PagedList.Mvc;
+@using PagedList;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+}
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+<h2>Goods Page</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm("Index", "Goods", FormMethod.Post))
+{
+    <div>
+    @Html.TextBox("searchString", ViewBag.currentFilter as string, new { @placeholder = "Search by Tilte" })
+    <input type="submit" value="Search" />
+    </div>
+    <br />
+
+}
+<table class="table">
+    <tr>
+        <th>
+           @Html.ActionLink("Title", "Index", new { sortOrder = ViewBag.TitleSortParm })
+        </th>
+        <th>
+            Type
+        </th>
+        <th>
+            Price
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Type)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.GoodID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.GoodID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.GoodID })
+        </td>
+    </tr>
+   
+}
+
+</table>
+
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+
+
+

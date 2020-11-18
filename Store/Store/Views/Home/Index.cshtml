@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>My Store</h1>
+    <p class="lead">Regiser customers, Search Goods, and Checkout Goods.</p>
+    
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>@Html.ActionLink("Customers", "Index", "Customers")</h2>
+        <p>This part is related to Customers </p>
+    </div>
+    <div class="col-md-4">
+        <h2>@Html.ActionLink("Goods", "Index", "Goods")</h2>
+        <p>This part is related to Goods </p>
+    </div>
+    <div class="col-md-4">
+        <h2>@Html.ActionLink("Sales", "Index", "Sales")</h2>
+        <p>This part is related to Sales </p>
+    </div>
+</div>

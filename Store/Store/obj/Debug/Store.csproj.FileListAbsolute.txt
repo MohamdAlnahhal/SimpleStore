@@ -1,0 +1,174 @@
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\ApplicationInsights.config
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\roslyn\csc.exe
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\roslyn\vbc.exe
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\roslyn\VBCSCompiler.exe
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Store.dll.config
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Store.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Store.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Antlr3.Runtime.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\EntityFramework.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\EntityFramework.SqlServer.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AI.Web.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.ApplicationInsights.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Newtonsoft.Json.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Owin.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.Helpers.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.Mvc.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.Optimization.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.Razor.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.WebPages.Deployment.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.WebPages.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.WebPages.Razor.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\WebGrease.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AI.Web.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.ApplicationInsights.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.Helpers.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.Mvc.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.Optimization.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.Razor.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.WebPages.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.WebPages.Deployment.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\System.Web.WebPages.Razor.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Antlr3.Runtime.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Newtonsoft.Json.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\EntityFramework.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\EntityFramework.SqlServer.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\obj\Debug\Store.dll
+c:\users\hp\documents\visual studio 2015\Projects\Store\Store\obj\Debug\Store.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store\Store\bin\PagedList.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store\Store\bin\PagedList.Mvc.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store\Store\bin\PagedList.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store\Store\bin\PagedList.Mvc.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\ApplicationInsights.config
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\roslyn\csc.exe
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\roslyn\System.Collections.Immutable.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\roslyn\System.Reflection.Metadata.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\roslyn\vbc.exe
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\roslyn\VBCSCompiler.exe
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\roslyn\VBCSCompiler.exe.config
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Store.dll.config
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Store.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Store.pdb
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Antlr3.Runtime.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\EntityFramework.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\EntityFramework.SqlServer.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AI.Agent.Intercept.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AI.DependencyCollector.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AI.Web.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AI.WindowsServer.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.ApplicationInsights.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AspNet.Identity.Core.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.Cookies.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.Facebook.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.Google.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.OAuth.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.Twitter.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Web.Infrastructure.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Newtonsoft.Json.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Owin.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\PagedList.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\PagedList.Mvc.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.Helpers.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.Mvc.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.Optimization.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.Razor.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.WebPages.Deployment.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.WebPages.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.WebPages.Razor.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\WebGrease.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AI.DependencyCollector.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AI.Web.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AI.WindowsServer.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.ApplicationInsights.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\PagedList.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\PagedList.Mvc.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.Helpers.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.Razor.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.WebPages.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.WebPages.Deployment.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.WebPages.Razor.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.Mvc.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\System.Web.Optimization.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Antlr3.Runtime.pdb
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Newtonsoft.Json.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\EntityFramework.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\EntityFramework.SqlServer.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AspNet.Identity.Core.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.Facebook.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.Cookies.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.OAuth.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.Google.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.Twitter.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\obj\Debug\Store.dll
+G:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\obj\Debug\Store.pdb
+F:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\obj\Debug\Store.csprojAssemblyReference.cache
+F:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+F:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\obj\Debug\Store.dll
+F:\فلسطين\مستوى ثالث\فصل ثاني\Web Programming\Web Programming - Lab\Store-مشروع ويب عملي تهائي\Store\Store\obj\Debug\Store.pdb

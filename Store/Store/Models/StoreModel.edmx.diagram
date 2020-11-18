@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="130270a0e8b84cb3b76139adc5d5887c" Name="Diagram1">
+        <EntityTypeShape EntityType="StoreDBModel.Customer" Width="1.5" PointX="0.75" PointY="1.125" />
+        <EntityTypeShape EntityType="StoreDBModel.Good" Width="1.5" PointX="5.625" PointY="1.25" />
+        <EntityTypeShape EntityType="StoreDBModel.Sale" Width="1.5" PointX="3" PointY="1" />
+        <EntityTypeShape EntityType="StoreDBModel.sysdiagram" Width="1.5" PointX="2.75" PointY="4.75" />
+        <AssociationConnector Association="StoreDBModel.FK__Sales__CustomerI__22AA2996" />
+        <AssociationConnector Association="StoreDBModel.FK__Sales__GoodID__239E4DCF" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
